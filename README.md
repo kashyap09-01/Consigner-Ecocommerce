@@ -1,7 +1,3 @@
-Here is the README file for your project developed during the HackXcelerate 2024 hackathon:
-
----
-
 # Consigner: Eco-Commerce Optimization Tool
 
 This repository contains the source code for the Eco-Commerce Optimization Tool, developed during the HackXcelerate 2024 hackathon presented by Chaitanya Bharathi Institute of Technology in collaboration with Microsoft and ByteXL. The tool aims to help e-commerce platforms optimize their operations and logistics to reduce environmental impact without sacrificing customer satisfaction.
